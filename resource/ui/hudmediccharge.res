@@ -40,7 +40,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontSmallest"
+		"font"			"HudFontSmall"
 	}
 
 	"IndividualChargesLabel"
@@ -72,7 +72,7 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
-		"xpos"			"31"
+		"xpos"			"30"
 		"xpos_minmode"			"10"
 		"ypos"			"38"
 		"ypos_minmode"			"23"
