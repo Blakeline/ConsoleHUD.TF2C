@@ -376,7 +376,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"15"	[$WIN32]
 				"tall"		"15"	[$X360]
-				"weight"	"700"
+				"weight"	"400"
 				"yres"		"480 599"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -386,7 +386,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"17"	[$WIN32]
 				"tall"		"17"	[$X360]
-				"weight"	"700"
+				"weight"	"400"
 				"yres"		"600 767"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -396,7 +396,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"18"	[$WIN32]
 				"tall"		"18"	[$X360]
-				"weight"	"700"
+				"weight"	"400"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -406,7 +406,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"20"	[$WIN32]
 				"tall"		"20"	[$X360]
-				"weight"	"700"
+				"weight"	"400"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -416,7 +416,7 @@ Scheme
 				"name"		"Verdana"
 				"tall"		"25"	[$WIN32]
 				"tall"		"25"	[$X360]
-				"weight"	"700"
+				"weight"	"400"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
 				"antialias"	"1"
