@@ -17,6 +17,7 @@
 		"avatar_width"		"65"
 		"spacer"			"5"
 		"name_width"		"118"
+		"status_width"		"25"
 		"nemesis_width"		"25"
 		"class_width"		"25"
 		"score_width"		"30"
