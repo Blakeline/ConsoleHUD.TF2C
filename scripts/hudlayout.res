@@ -530,10 +530,10 @@
 		"TeamGreen"		"HUDGreenTeamSolid"
 		"TeamYellow"	"HUDYellowTeamSolid"
 		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"LocalPlayerColor"	"HudWhite"
 
 		"BaseBackgroundColor"	"32 32 32 255"		[$WIN32]
-		"LocalBackgroundColor"	"0 0 0  255"	[$WIN32]
+		"LocalBackgroundColor"	"65 65 65  255"	[$WIN32]
 		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
 		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
 	}
@@ -1057,7 +1057,7 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r193"	[$WIN32]
+		"xpos"			"r195"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
 		"ypos"			"r76"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
